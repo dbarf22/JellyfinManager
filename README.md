@@ -2,7 +2,7 @@ Team Members:
 	Andrea Ayons, Dylan Barfield, Emily Freeman, Konrad Wilson
 
 Purpose:
-	Our team’s goal is to make life a little bit easier for parents, caregivers, or anyone that has the desire to…
+	This app is intended to allow parents and caregivers to automate media schedules for people who are not familiar with streaming services, the complexity of modern UIs, or people that struggle with understanding how to choose content to watch. 
 
 Tools utilized:
 	Languages: Java, Typescript, Javascript
