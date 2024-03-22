@@ -16,6 +16,7 @@ export default function Home() {
 
   const playQueue = async (session: string) => {
     try {
+        // TODO Replace With variable for the Java Server IP/route
         const apiUrl = "http://172.20.75.133:8080/queue/sendQueue";
         const requestBody = session.toString();
         console.log(session);
