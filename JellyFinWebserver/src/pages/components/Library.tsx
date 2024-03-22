@@ -22,6 +22,7 @@ import { FaPlus } from "react-icons/fa";
     useEffect(() => {
         const callAPI = async () => {
           try {
+            //TODO Replace with variable for IP/route
             const res = await fetch("http://172.20.75.133:8080/database/getMovieList");
             const data = await res.json();
             setMovieList(data);
